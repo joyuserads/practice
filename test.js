@@ -83,11 +83,12 @@ window.addEventListener('DOMContentLoaded', () => {
         resultado.style.color = "blue";
        })
 
+       /*
         numeroDigitado.forEach((n) => {
             const item = document.createElement("li");
             item.textContent = n;
             historico.appendChild(item);
-        });
+        }); */
 
 
 
